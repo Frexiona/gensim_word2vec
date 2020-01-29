@@ -1,2 +1,2 @@
 # gensim_word2vec
-Word2Vec model training based on gensim
+This word2vec is based on gensim library and wiki corpus
