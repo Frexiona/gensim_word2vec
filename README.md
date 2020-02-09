@@ -4,7 +4,7 @@ This is a test project to mimic the performance of the knowledge graph
 
 ## Installation
 
-Install [requirements.txt]
+Install [requirements.txt](https://github.com/Frexiona/gensim_word2vec/blob/master/requirements.txt)
 ```bash
 pip install requirements.txt
 ```
@@ -13,11 +13,11 @@ pip install requirements.txt
 
 ### Word Embedding (Pretrained & Selftrained)
 
-* Pretrained [pretrained_model.py]
+* **Pretrained [pretrained_model.py](https://github.com/Frexiona/gensim_word2vec/blob/master/wiki_model/pretrained_model.py)**
 
 Find relavant words by using pretrained model (Fast & Outdated)
 
-* Selftrained [word2vec_trainer.py]
+* **Selftrained [word2vec_trainer.py](https://github.com/Frexiona/gensim_word2vec/blob/master/wiki_model/word2vec_trainer.py)**
 
 Find relavant words by using latest Wiki corpus trained model (Slow & Latest)
 
