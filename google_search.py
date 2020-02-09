@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# @Time    : 05/02/2020
+# @Author  : Haolin Zhang
+# @File    : google_search.py
+# @Software: VS Code
+
 from googlesearch import search
 
 
